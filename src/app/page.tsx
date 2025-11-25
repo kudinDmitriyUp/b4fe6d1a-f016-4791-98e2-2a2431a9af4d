@@ -245,7 +245,6 @@ export default function LandingPage() {
       <div id="footer" data-section="footer">
         <FooterBaseReveal
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SgGlSmvaVv2SYOkECykbr8Q49/uploaded-1764106835485-5aciizuh.jpg"
-          logoAlt="BasketPro Logo"
           copyrightText="© 2025 BasketPro. All rights reserved."
           columns={[
             {
